@@ -1,0 +1,32 @@
+.tabela{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%
+}
+th {
+    width: 16.66%;
+    text-align: center;
+    border: 1px solid;
+  }
+#naslov{
+    text-align: center;
+    size: 28px;
+    color: grey;
+}
+.slikaIzTabele{
+    width: 190px;
+    height: 100px;
+}
+.par{
+    background-color: #e9ecef;
+}
+.nepar{
+    background-color: white;
+}
+td{
+    text-align: center;
+}
+ol{
+    text-align: left;
+}
